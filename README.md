@@ -2,6 +2,6 @@
 Doing things, learning things.
 
 ## What you need is:
-- Documentation
+- Documentation: https://xochitl-coxtoc.gitbook.io/dev-starter/
 - Jira
 - Git commits
